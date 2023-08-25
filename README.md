@@ -15,7 +15,6 @@ PB: 43.3612002（17位）, PB: 43.1364339（12位）
 ## 🚀 Usage
 
 ~~~
-# Clone
 !git clone https://github.com/haru1290/signate-student-cup-2023.git
 ~~~
 
