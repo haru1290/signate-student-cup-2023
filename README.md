@@ -1,4 +1,4 @@
-# SIGNATE Student Cup 2023（まだ途中）
+# SIGNATE Student Cup 2023（まだ書いている途中）
 
 いい感じの画像を載せる
 
@@ -7,8 +7,6 @@
 SIGNATE Student Cup 2023【モデリング部門】：中古車の価格予測チャレンジ
 
 PB: 43.3612002（17位）, PB: 43.1364339（12位）
-
-起きたら、ちゃんと書く（偉い）
 
 ## 🖊︎ Requirement
 
