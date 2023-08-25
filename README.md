@@ -8,9 +8,9 @@ SIGNATE Student Cup 2023【モデリング部門】：中古車の価格予測�
 
 PB: 43.3612002（17位）, PB: 43.1364339（12位）
 
-起きたら、ちゃんと書く（眠い）
+起きたら、ちゃんと書く（偉い）
 
-## 🍴 Requirement
+## 🖊︎ Requirement
 
 - python 3.10.12
 - pandas
@@ -26,9 +26,13 @@ PB: 43.3612002（17位）, PB: 43.1364339（12位）
 !git clone https://github.com/haru1290/signate-student-cup-2023.git
 ~~~
 
-## Features
+## 🍴 Features
 
 ## 📚 References
+
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
+- [Kaggleで勝つデータ分析の技術](https://github.com/ghmagazine/kagglebook)
 
 ## Author
 
