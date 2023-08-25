@@ -1,4 +1,4 @@
-# SIGNATE Student Cup 2023
+# SIGNATE Student Cup 2023（まだ途中）
 
 いい感じの画像を載せる
 
