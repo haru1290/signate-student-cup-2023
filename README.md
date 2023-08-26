@@ -22,10 +22,10 @@ Also, we predicted the price by stacking LightGBM.
 ## :rocket: Usage
 All processing must be done in the `repos/` folder of Google Colab.
 ```
-# Creat working directory.
 !mkdir repos
-
-# Clone from GitHub.
+```
+Clone from GitHub.
+```
 !git clone https://github.com/haru1290/signate-student-cup-2023.git
 ```
 
