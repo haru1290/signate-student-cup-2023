@@ -6,6 +6,8 @@ The goal is to build an algorithm that predicts the price of used cars based on 
 
 This repository is the solution that 12th place in the SIGNATE Student Cup 2023.
 
+PB: 43.3612002（17th）LB: 43.1364339（12th）
+
 I experimented with everything on Google Colab. As a pretreatment, I corrected for discrepancies in missing values and character codes.
 Also, we predicted the price by stacking LightGBM.
 
