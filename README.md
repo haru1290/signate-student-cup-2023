@@ -16,7 +16,11 @@ I experimented with everything on Google Colab. As a pretreatment, I corrected f
 - Seaborn 0.12.2
 
 ## :rocket: Usage
-Google Colab:
+Creat working directory
+~~~
+!mkdir repos
+~~~
+Clone from GitHub.
 ~~~
 !git clone https://github.com/haru1290/signate-student-cup-2023.git
 ~~~
@@ -33,7 +37,6 @@ Google Colab:
 - [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Kaggleで勝つデータ分析の技術](https://github.com/ghmagazine/kagglebook)
-- [【Python覚書】アンサンブル学習：XGBoost、LightGBM、CatBoostを組み合わせる（その２）](https://potesara-tips.com/ensemble-stacking/)
 - [飯田産業 土地の販売価格の推定](https://signate.jp/competitions/162)
 - [中古車価格予測](https://www.kaggle.com/competitions/used-car-price-forecasting/overview)
 - [Used Cars Price Prediction](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction)
