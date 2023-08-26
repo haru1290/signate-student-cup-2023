@@ -28,12 +28,12 @@ Clone from GitHub.
 
 ## :books: References
 - [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
-- [Pandas](https://pandas.pydata.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [Kaggleで勝つデータ分析の技術](https://github.com/ghmagazine/kagglebook)
 - [【Python覚書】アンサンブル学習：XGBoost、LightGBM、CatBoostを組み合わせる（その２）](https://potesara-tips.com/ensemble-stacking/)
-- [中古車価格予測](https://www.kaggle.com/competitions/used-car-price-forecasting/overview)
 - [飯田産業 土地の販売価格の推定](https://signate.jp/competitions/162)
+- [中古車価格予測](https://www.kaggle.com/competitions/used-car-price-forecasting/overview)
+- [Used Cars Price Prediction](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction)
 
 ## :pen: Author
 
