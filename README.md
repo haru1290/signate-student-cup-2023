@@ -30,9 +30,6 @@ All processing must be done in the `repos/` folder of Google Colab.
 ```
 
 ## :pen: Author
-- HryeDev
-- Ehime University
-- E-mail: suzuki@ai.cs.ehime-u.ac.jp
 
 ## :memo: Licence
 [MIT license](https://github.com/haru1290/signate-student-cup-2023/blob/main/LICENSE)
