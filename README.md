@@ -1,11 +1,13 @@
 ![Screenshot 2023-08-27 at 01-58-39 SIGNATE Student Cup 2023【モデリング部門】：中古車の価格予測チャレンジ SIGNATE - Data Science Competition](https://github.com/haru1290/signate-student-cup-2023/assets/83323040/bb1b4756-048b-40f6-87af-ce27ae2f9acd)
 
 # SIGNATE Student Cup 2023
-The goal of this competition is to develop an algorithm that predicts the price of used cars based on vehicle information (type, odometer, etc.).
+This competition is hosted by SIGNATE.
+The goal is to build an algorithm that predicts the price of used cars based on information (such as car type and odometer).
 
 This repository is the solution that 12th place in the SIGNATE Student Cup 2023.
 
-I experimented with everything on Google Colab. As a pretreatment, I corrected for discrepancies in missing values and character codes. Also, we predicted the price by stacking LightGBM.
+I experimented with everything on Google Colab. As a pretreatment, I corrected for discrepancies in missing values and character codes.
+Also, we predicted the price by stacking LightGBM.
 
 ## :hugs: Requirement
 - NumPy 1.23.5
