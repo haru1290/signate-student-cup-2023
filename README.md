@@ -1,8 +1,7 @@
-# SIGNATE Student Cup 2023【モデリング部門】：中古車の価格予測チャレンジ
 ![Screenshot 2023-08-27 at 01-58-39 SIGNATE Student Cup 2023【モデリング部門】：中古車の価格予測チャレンジ SIGNATE - Data Science Competition](https://github.com/haru1290/signate-student-cup-2023/assets/83323040/bb1b4756-048b-40f6-87af-ce27ae2f9acd)
-SIGNATE Student Cup 2023【モデリング部門】：中古車の価格予測チャレンジ
 
-PB: 43.3612002（17位）, PB: 43.1364339（12位）
+# SIGNATE Student Cup 2023
+SIGNATE Student Cup 2023【モデリング部門】：中古車の価格予測チャレンジ
 
 ## :hugs: Requirement
 - Python 3.10.12
@@ -23,8 +22,6 @@ Clone from GitHub.
 !git clone https://github.com/haru1290/signate-student-cup-2023.git
 ~~~
 
-## :fork_and_knife: Features
-
 ## :books: References
 - [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
 - [scikit-learn](https://scikit-learn.org/stable/)
@@ -35,6 +32,8 @@ Clone from GitHub.
 - [Used Cars Price Prediction](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction)
 
 ## :pen: Author
+- HryeDev
+- 
 
 ## :memo: Licence
 >MIT License
