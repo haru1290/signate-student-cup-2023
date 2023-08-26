@@ -16,14 +16,14 @@ I experimented with everything on Google Colab. As a pretreatment, I corrected f
 - Seaborn 0.12.2
 
 ## :rocket: Usage
-Creat working directory
-~~~
+All processing must be done in the `repos/` folder of Google Colab.
+```
+# Creat working directory.
 !mkdir repos
-~~~
-Clone from GitHub.
-~~~
+
+# Clone from GitHub.
 !git clone https://github.com/haru1290/signate-student-cup-2023.git
-~~~
+```
 
 ## :pen: Author
 - HryeDev
@@ -31,7 +31,7 @@ Clone from GitHub.
 - E-mail: suzuki@ai.cs.ehime-u.ac.jp
 
 ## :memo: Licence
-"signate-student-cup-2023" is under [MIT license](https://github.com/haru1290/signate-student-cup-2023/blob/main/LICENSE).
+[MIT license](https://github.com/haru1290/signate-student-cup-2023/blob/main/LICENSE)
 
 ## :books: References
 - [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
