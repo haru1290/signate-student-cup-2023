@@ -160,6 +160,6 @@ cython_debug/
 #.idea/
 
 # Original
-input/
+input/*
+!input/.gitkeep
 notebook/
-
